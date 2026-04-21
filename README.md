@@ -1,2 +1,15 @@
-# embedded-systems-msp430
-Microprocessors Laboratory
+# Embedded Systems MSP430 Exercises
+
+Lab exercises for the Microprocessors course at the University of Brasília (UnB).
+
+## Hardware
+* **Board:** MSP430F5529LP (LaunchPad)
+* **MCU:** MSP430F5529 (16-bit RISC)
+
+## Content
+* Files in `.asm` (Assembly) and `.c` (C language).
+* Focused on: GPIO, Interrupts, Timers, and Low Power Modes.
+
+## Setup
+* **IDE:** Code Composer Studio (CCS)
+* **Compiler:** TI-CGT
