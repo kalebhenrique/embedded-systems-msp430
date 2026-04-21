@@ -8,7 +8,14 @@ Lab exercises for the Microprocessors course at the University of Brasília (UnB
 
 ## Content
 * Files in `.asm` (Assembly) and `.c` (C language).
-* Focused on: GPIO, Interrupts, Timers, and Low Power Modes.
+* Instruction Set and Assembly Programming
+* GPIO
+* Interrupts
+* Timers
+* Interrupts
+* Clock Configuration
+* Serial Communication
+* ADC Converter with Direct Memory Access (DMA)
 
 ## Setup
 * **IDE:** Code Composer Studio (CCS)
